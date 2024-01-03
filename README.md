@@ -1,6 +1,6 @@
 # You can view the app in the following link:
 
-*Link pending*
+https://javiervargas02.github.io/eat-n-split-project-react/
 
 ## Project description
 
